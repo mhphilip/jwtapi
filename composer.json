@@ -1,7 +1,7 @@
 {
-    "name": "jarnovanleeuwen/jwtapi",
+    "name": "mhphilip/jwtapi",
     "type": "library",
-    "description": "Efficient and secure machine-to-machine API using JSON Web Tokens and asymmetric request signing.",
+    "description": "Efficient and secure machine-to-machine API using JSON Web Tokens and asymmetric request signing. w/ Symfony 7 support",
     "keywords": [
         "jwt",
         "api",
